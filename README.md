@@ -1,2 +1,0 @@
-# regina
-Project website
